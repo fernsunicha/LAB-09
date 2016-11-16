@@ -51,11 +51,11 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
-
+ ![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/2.4.png?raw=true)
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)``` แล้วทดลอง Run โปรแกรม
-
+![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/2.5.1.png?raw=true)
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
@@ -65,7 +65,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-5.png">
 </p> 
-
+![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/2.5.2.png?raw=true)
 ####2.5.3. การทดลองย่อย 3  -- การใช้ปากกา
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
@@ -90,3 +90,9 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
+ ![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/1.png?raw=true)
+![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/3.png?raw=true)
+ ![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/4.png?raw=true)
+ ![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/6.png?raw=true)
+![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/5.png?raw=true)
+![](https://github.com/fernsunicha/LAB-09/blob/master/imgs/222.png?raw=true)
